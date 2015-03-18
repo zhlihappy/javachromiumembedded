@@ -1,5 +1,7 @@
 #summary Overview of the implementation for CEF1.
 
+*This Wiki page is obsolete and no longer maintained. Visit the new JCEF project page at https://bitbucket.org/chromiumembedded/java-cef/ *
+
 ==Introduction==
 
 This project provides a Java wrapper implementation for the Chromium Embedded Framework (CEF). Initial development was sponsored by Lime Wire, LLC.
